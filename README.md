@@ -1,0 +1,8 @@
+ESP32
+CLK_PIN       14
+DATA_PIN      13
+CS_PIN        15
+
+
+
+ESP8266
